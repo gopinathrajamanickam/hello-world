@@ -1,3 +1,3 @@
 # hello-world
 as prescribed 
-mm this is teh way to do it
+this is the way to do it
